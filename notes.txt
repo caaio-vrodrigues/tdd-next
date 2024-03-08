@@ -1,0 +1,5 @@
+Dentro de package.json adicionar em scripts "test" e "coverage": 
+  scripts{ 
+    "test": "jest",
+    "coverage": "jest --coverage"
+  }
