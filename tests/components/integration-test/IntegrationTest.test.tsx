@@ -4,6 +4,8 @@ import { fireEvent, getByRole, render, screen } from '@testing-library/react';
 // components
 import { IntegrationTest } from '@/components/integration-test/IntegrationTest';
 
+// teste git
+
 describe('IntegrationTest Component', () => {
   it('Should render msg in the document.', () => {
     render(<IntegrationTest/>);
